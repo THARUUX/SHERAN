@@ -92,7 +92,8 @@ html, body {
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. single IMG BACKGROUND */
 .bg-img-SINGLE {
-background-image: url(../img/hero.jpg);
+/*background-image: url(../img/hero.jpg);*/
+background-image: url(https://scontent.fcmb1-2.fna.fbcdn.net/v/t51.82787-15/589431366_18519065110066340_5533014088704089379_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFKgNJsgSFuMe5VLjv9kdCYl50RVg3RsuWXnRFWDdGy5azyiUpb04AWefp4u6g3qCKhP6r6NBSsyEuMtOA0P_uR&_nc_ohc=DDPzLHIZjycQ7kNvwHvrGFX&_nc_oc=Adldr6fi3dFiv1uCeXCELRaWZhhKKIPfCfL79EmCy_2XQyKnNVzZl7xdrpr2SpbmGW8&_nc_zt=23&_nc_ht=scontent.fcmb1-2.fna&_nc_gid=oXDgqaL4d6LuCJo2ren5UQ&oh=00_AfmWNq5bs15PyIdHxv-gKk3U0DQ_Rmx9iGvrza0nkKWXHQ&oe=69568858);
 }
 
 
